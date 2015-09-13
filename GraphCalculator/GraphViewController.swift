@@ -40,7 +40,9 @@ class GraphViewController: UIViewController, GraphViewDataSource, GraphViewDeleg
     
     private func updateUI() {
         graphView?.setNeedsDisplay()
-        title = "\(operandStack.last)"
+        if let lastOperand = operandStack.last  {
+            title  = lastOperand
+        }
     }
     
     private let userDefaults = NSUserDefaults.standardUserDefaults()

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B808CA6-4E46-40A5-9425-A45A768D9F8F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GraphCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>92D090C5CAD12759B27F1208FE93F90273F1E2DF</key>
+		<string>https://github.com/RaphaelSwift/CS193P-Assignment-3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GraphCalculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>92D090C5CAD12759B27F1208FE93F90273F1E2DF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RaphaelSwift/CS193P-Assignment-3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>92D090C5CAD12759B27F1208FE93F90273F1E2DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92D090C5CAD12759B27F1208FE93F90273F1E2DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GraphCalculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
